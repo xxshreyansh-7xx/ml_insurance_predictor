@@ -1,0 +1,7 @@
+{
+    "projectid":"vertical-wall-359600",
+    "endpoint_id":"1725563325122871296",
+    "instance_dict":{"instances": [
+    {"age": "25",  "sex": "1", "bmi": "25", "children": "1", "smoker": "0", "region": "1"}
+]}
+}
